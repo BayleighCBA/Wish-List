@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>true</can_edit_in_studio>
+        <enforce_license>none</enforce_license>
+        <guided_setup_guid/>
+        <hide_on_ui>false</hide_on_ui>
+        <installed_as_dependency>false</installed_as_dependency>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license/>
+        <license_category>none</license_category>
+        <license_definition/>
+        <license_model>none</license_model>
+        <logo>d9db868d979521100f99b6a6f053aff3</logo>
+        <menu/>
+        <name>Wish List</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_948227_wish_list</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description>Create personal wish lists</short_description>
+        <source>x_948227_wish_list</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-27 04:08:43</sys_created_on>
+        <sys_id>c1dbc20d979521100f99b6a6f053afee</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-27 04:08:44</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <uninstall_blocked>false</uninstall_blocked>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_translated_text action="delete_multiple" query="documentkey=c1dbc20d979521100f99b6a6f053afee"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>MicrosoftTeams-image (3).png</file_name>
+        <hash>3697b949a4f986c659babcd694ffabfd3224ca5cb52ca956bf54eb126d2ef260</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>2180</size_bytes>
+        <size_compressed>2203</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-27 04:08:44</sys_created_on>
+        <sys_id>d9db868d979521100f99b6a6f053aff3</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-02-27 04:08:45</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>c1dbc20d979521100f99b6a6f053afee</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="MicrosoftTeams-image (3).png" sys_id="d9db868d979521100f99b6a6f053aff3">d9db868d979521100f99b6a6f053aff3</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-27 04:08:44</sys_created_on>
+        <sys_id>1ddb868d979521100f99b6a6f053aff3</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2924</length>
+        <position>1</position>
+        <sys_attachment display_value="MicrosoftTeams-image (3).png" sys_id="d9db868d979521100f99b6a6f053aff3">d9db868d979521100f99b6a6f053aff3</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-27 04:08:44</sys_created_on>
+        <sys_id>9ddb868d979521100f99b6a6f053aff3</sys_id>
+    </sys_attachment_doc>
+</record_update>
